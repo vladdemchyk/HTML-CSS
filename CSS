@@ -1,0 +1,67 @@
+/* Стилі для заголовка */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Стилі для тексту */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Стилі для списків */
+ul, ol {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+/* Стилі для посилань */
+a {
+  color: #007bff;
+}
+
+/* Стилі для навігаційного меню */
+nav {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+/* Стилі для секції */
+section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Стилі для статті */
+article {
+  margin-bottom: 40px;
+}
+
+/* Стилі для футера */
+footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  margin-top: 40px;
+  text-align: center;
+}
